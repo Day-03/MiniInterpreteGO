@@ -1,0 +1,11 @@
+0
+LOAD_GLOBAL
+print
+1
+LOAD_CONST
+"hola mundo"
+2
+CALL_FUNCTION
+1
+3
+END
