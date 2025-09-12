@@ -9,6 +9,7 @@ def prueba1():
 ```
 hola mundo
 ```
+.\tarea1 1_print.bytecode
 
 ### 2_aritmetrica.bytecode
 def prueba2():
@@ -25,6 +26,7 @@ def prueba2():
 3
 1
 ```
+.\tarea1 2_aritmetrica.bytecode
 
 ### 3_logica.bytecode
 def prueba3():
@@ -35,6 +37,7 @@ def prueba3():
 False
 True
 ```
+.\tarea1.exe 3_logica.bytecode
 
 ### 4_comparar_y_saltar.bytecode
 def prueba4():
@@ -50,6 +53,7 @@ def prueba4():
 3
 4
 ```
+.\tarea1 4_comparar_y_saltar.bytecode
 
 ### 5_listas.bytecode
 def prueba5():
@@ -62,6 +66,7 @@ def prueba5():
 20
 99
 ```
+.\tarea1 5_listas.bytecode 
 
 ### 6_pares.bytecode
 def prueba6():
@@ -79,6 +84,7 @@ def prueba6():
 6
 8
 ```
+.\tarea1 6_pares.bytecode 
 
 ---
 
@@ -89,3 +95,5 @@ def prueba7():
     # genera ZeroDivisionError
     print(7 // 0)
 **Resultado esperado:** Terminación con mensaje de error: `división por cero`.
+
+.\tarea1 7_error_div.bytecode
