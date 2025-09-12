@@ -1,3 +1,5 @@
+Integrantes del proyecto: Dayron Arce Ramirez y Kandall Ramirez Montero
+
 # Pruebas para la máquina de bytecode (Go)
 
     Casos correctos
