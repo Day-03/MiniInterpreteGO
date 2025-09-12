@@ -1,4 +1,4 @@
-Integrantes del proyecto: Dayron Arce Ramirez y Kandall Ramirez Montero
+Integrantes del proyecto: Dayron Arce Ramirez y Kendall Ramirez Montero
 
 # Pruebas para la máquina de bytecode (Go)
 
