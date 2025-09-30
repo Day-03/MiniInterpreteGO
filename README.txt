@@ -101,3 +101,11 @@ def prueba7():
 .\tarea1 7_error_div.bytecode
 
 
+
+asdf and
+
+
+asfasdf 
+Salidaa 
+
+
